@@ -1,3 +1,3 @@
-# 🚀 Go Playground
+# 🚀 CH005 구조체
 
-![Generic badge](https://img.shields.io/badge/Since-2025.JUL.9-g.svg)
+> 기본 문법 - 구조체
